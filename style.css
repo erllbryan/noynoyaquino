@@ -1,0 +1,27 @@
+
+
+body{background: yellow;text-decoration : none;color: #595959;font-size: 15px;font-weight:light;
+font-family: small tahoma, "Bitstream Vera Sans", "Trebuchet MS", "Lucida Grande", lucida, helvetica, sans-serif;}
+#container{position: relative;min-height: 100vh;margin:0;}
+#content-wrap{min-height: 100vh;padding-bottom: 2.5rem;}
+/*/ Shadow effect  /*/
+#nav {height: 50;list-style-type: none;margin: 0;padding: 0;overflow: hidden;background: black;top: 0;}
+#hover:hover {color: yellow;}
+li {float: right;padding-top: 4px;}
+li a {font-weight: bold;display: block;color: white;text-align: center;padding: 14px 30px;text-decoration: none;}
+/*/ Logo effect  /*/
+.logo {padding-top: 13px;padding-bottom: 2px;padding-left: 8px;float: left;width: 20px;height: 20px;}
+/*/ ------- /*/
+#home{text-decoration : none;}
+/*/ Shadow effect  /*/
+div.noynoy {width: 900px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);text-align: center;}
+/*/ -------  /*/
+/*/ Footer design  /*/
+footer{clear: both;  position: relative;min-height: calc(10vh);text-align: center;padding: 20px;background-color: black;color: white;}
+footer a{border-left: 1px solid white;text-decoration: none;color:white;}
+a.hover{border-left: none;}
+a:hover{color: yellow;}
+/*/ -------  /*/
+/*/ ads  /*/
+#ads{clear: both;position: absolute;}
+/*/ -------  /*/
